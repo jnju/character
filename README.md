@@ -12,7 +12,7 @@
 ![대표화면2](https://user-images.githubusercontent.com/114633681/214976006-12c5bc0e-d539-4b3e-9340-df705dbe8157.PNG)
 > 표에 마우스를 올리면 해당 영역 인물의 소개와 에피소드를 보러 갈 수 있는 버튼이 생깁니다.
 
-< br/>
+<br/>
 
 ### :relieved: 느낀점
 
